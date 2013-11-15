@@ -10,6 +10,6 @@ formatting and submitting blog entries to a weblog. QTM will work with blogs
 based on most of the major blogging systems available today: Wordpress
 (including wordpress.com), Movable Type, Drupal and so on."
 HOMEPAGE="http://qtm.blogistan.co.uk/"
-SRC_URI="mirror://sourceforge/catkin/${P}.tar.bz2"
+SRC_URI="mirror://sourceforge/catkin/${NAME}-${VERSION}.tar.bz2"
 
 CYGCMAKE_ARGS="-DINSTALL_MARKDOWN=ON"
